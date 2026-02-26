@@ -1,0 +1,101 @@
+body {
+    background-color: #2B2B2B;
+    font-family:'Times New Roman', Times, serif;
+    padding: 20px;
+
+}
+
+h1 {
+    font-size: 35px;
+    text-align: center;
+    color: goldenrod;
+    margin-top: 25px;
+}
+
+.business-card {
+    background-color: #0a0a0a;
+    width: 300px;
+    margin: 400px;
+    margin-top: auto;
+    margin-right: auto;;
+    margin-bottom: auto;
+    margin-left: auto;
+    padding: 20px;
+}
+
+.personal-trainer-logo {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+.full-name {
+    font-size: 20px;
+    color: goldenrod;
+    text-align: center;
+}
+
+.designation {
+    font-size: 18px;
+    color: goldenrod;
+    text-align: center;
+}
+
+.job-title1, .job-title2 {
+    font-size: 18px;
+    color: goldenrod;
+    text-align: center;
+}
+
+.certification1, .certification2 {
+    font-size: 18px;
+    color: goldenrod;
+    text-align: center;
+}
+
+.phone {
+    font-size: 18px;
+    color: goldenrod;
+    text-align: center;
+}
+
+h2 {
+    font-size: 18px;
+    color: goldenrod;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.instagram-icon {
+    display: flex;
+    background-color: #0a0a0a;
+    width: 60px;
+    height: 60px;
+    margin-right: 5px;
+    filter: invert(1); 
+    mix-blend-mode: screen;
+}
+
+.facebook-icon {
+    display: flex;
+    align-items: center;
+    background-color: white;
+    width: 60px;
+    height: 60px;
+    margin-left: 5px;
+    filter: invert(1); 
+    mix-blend-mode: screen;
+}
+
+.social-media {
+    display: flex;
+    justify-content: center;
+    margin-top: -100px;
+    margin-right: 50px;
+    margin-bottom: 0px;
+    margin-left: 50px;
+    padding: 20px;
+}
